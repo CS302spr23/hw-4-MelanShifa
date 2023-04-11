@@ -31,3 +31,6 @@ Inline code: `print("Hello, World!")`
 
 
 [Link to My Readme](https://github.com/MelanShifa/melan-shifa#readme)
+
+
+[Link to Things I don't understand](https://github.com/MelanShifa/Homework/blob/main/ThingsIDontUnderstand.md)
